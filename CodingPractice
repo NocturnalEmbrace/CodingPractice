@@ -1,0 +1,67 @@
+<!-- This is From Girl Deveolp It -->
+
+<p> This is a paragraph </p>
+<tagname>Stuff in the middle</tagname>
+<p> This is a sample paragraph.</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the page </title>
+  </head>
+  <body>
+    The page content here.
+  </body>
+</html>
+<p>
+Here is a paragraph with <em>emphasized</em> text and <strong>important</strong> text.
+</p>
+<a href="http://www.girldevelopit.com" title="Girl Develop It">Girl Develop It</a><
+<a href="home.html" target="_blank">Link Text</a>
+<a href="mailto:sponsorships@girldevelopit.com">E-mail us!</a>
+<img src="https://assets.brandfolder.com/4btx26fz/original/circle-gdi-logo.png"
+alt="Girl Develop It logo"/>
+<p>
+Imagine there's no Heaven <br/>
+It's easy if you try <br/>
+No hell below us  <br/>
+Above us only sky
+</p>
+<ul>
+<li>List Item</li>
+<li>AnotherList Item</li>
+</ul>
+<ol>
+<li>List Item</li>
+<li>AnotherList Item</li>
+</ol>
+<!-- Comment goes here -->
+<!-- Beginning of header -->
+<div id="header">Header Content </div>
+<!-- End of header -->
+<!--
+<ol>
+<li>List Item</li>
+<li>Another List Item</li>
+</ol>
+-->
+
+<!-- This is what was in the GirlDevelopIt html lesson, just saving here -->
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Heading example.</h1>
+<p>We are playing with code.</p>
+<p>We have made a heading and a paragraph.</p>
+
+</body>
+</html>
+
+
